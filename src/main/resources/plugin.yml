@@ -1,0 +1,6 @@
+name: VillagerTradeInfinite
+version: '1.0.0'
+main: io.github.rav1xrav1.villagerTradeInfinite.VillagerTradeInfinite
+api-version: 1.19
+authors: [ Rav1xRav1 ]
+description: 村人との無限取引が可能になります
