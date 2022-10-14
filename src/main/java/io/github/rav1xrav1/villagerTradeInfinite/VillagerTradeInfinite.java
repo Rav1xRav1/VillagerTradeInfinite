@@ -16,6 +16,6 @@ public final class VillagerTradeInfinite extends JavaPlugin {
     @Override
     public void onDisable() {
         // Plugin shutdown logic
-        getLogger().info("プラグインver2が停止しました。");
+        getLogger().info("Finish VillagerTradeInfinite Plugin.");
     }
 }

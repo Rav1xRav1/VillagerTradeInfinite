@@ -14,7 +14,7 @@ import java.util.List;
 public final class EventListenerClass implements Listener {
 
     public EventListenerClass(JavaPlugin samplePlugin){
-        samplePlugin.getLogger().info("[Rav1System] ‘ºlæˆø–³ŒÀ‚ª‹N“®");
+        samplePlugin.getLogger().info("Start VillagerTradeInfinite Plugin!");
     }
 
     @EventHandler
